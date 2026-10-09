@@ -168,7 +168,7 @@ The project uses a **multi-fact dimensional data model** to support analysis acr
 
 ### Power BI & Data Analytics
 
-- **Power BI ** — Interactive dashboards and business reporting.
+- **Power BI** — Interactive dashboards and business reporting.
 - **Power Query** — Data cleaning, transformation, and ETL.
 - **DAX** — Business calculations and analytical measures.
 - **Dimensional Data Modeling** — Multi-Fact tables, dimension tables, and relationships.
