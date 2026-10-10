@@ -19,8 +19,8 @@ The project includes six analytical dashboards and a dedicated Home page.
 **Key Analysis:**
 - Total Revenue and Gross Revenue.
 - Profit and Profit Margin.
-- Order Volume and Sales Trends.
-- Product and Regional Performance.
+- Product Stock Availability & Supplier Lead Time Efficiency
+- Carrier Performance & Regional Revenue Distribution
 - High-level Financial and Operational KPIs.
 
 **Business Value:**
@@ -33,11 +33,11 @@ Provides stakeholders with a consolidated view of business performance and helps
 **Purpose:** Evaluate inventory efficiency, stock availability, and manufacturing quality.
 
 **Key Analysis:**
-- Current Stock Levels vs. Safety Stock.
-- Reorder Points and Inventory Turnover.
+- Stock Levels vs. Safety Stock Thresholds & Turnover Rate
+- Product Defect & Inventory Risk Analysis
 - Defect Rate and Defective Units.
-- Production Batch Performance.
-- Facility Utilization.
+- Revenue Valuation & Defect Financial Impact by Category
+- Inventory Trends & Reorder Point Monitoring
 
 **Business Value:**
 Helps identify potential inventory risks, product quality issues, and opportunities to improve operational efficiency.
@@ -49,11 +49,11 @@ Helps identify potential inventory risks, product quality issues, and opportunit
 **Purpose:** Monitor shipment performance and fix delivery delays.
 
 **Key Analysis:**
-- Delivery Rate and Shipment Delays.
-- Carrier Performance.
+- Total Shipments, Delivery Rates & Fulfillment Efficiency
+- Carrier Performance & Shipment Status Breakdown
 - Delayed Shipments by Country.
-- Shipment Status and Fulfillment Efficiency.
-- Logistics Costs.
+- Monthly Logistics Costs vs. Perfect Order Rate
+- Delay Root-Cause Analysis & Distribution
 
 **Business Value:**
 Supports the investigation of delivery delays, carrier performance issues, and opportunities to improve fulfillment reliability.
@@ -65,9 +65,9 @@ Supports the investigation of delivery delays, carrier performance issues, and o
 **Purpose:** Evaluate supplier performance and procurement efficiency.
 
 **Key Analysis:**
-- Supplier Quality Scores.
-- Procurement Spending.
-- Average Lead Time.
+- Procurement Spend, Lead Times & Quality Scores
+- Supplier Spend & Quality Performance Comparison
+- Supplier Cost Distribution by Country
 - Supplier Performance Comparisons.
 - Supplier Risk and Order Allocation.
 
@@ -81,11 +81,11 @@ Helps stakeholders compare suppliers using relevant performance indicators and i
 **Purpose:** Understand customer contribution and evaluate profitability-related performance.
 
 **Key Analysis:**
-- Revenue Contribution by Key Customers.
+- Sales & Profit Performance Trends
 - Direct vs. Indirect Sales Channels.
-- Customer Order Volume.
-- Profit Margin Analysis.
-- High-Volume vs. High-Margin Customers.
+- Sales Contribution by Channel & Product Category
+- Customer Profitability Overview & Margin Protection
+- Customer Discount Impact & Perfect Order Rate by Channel
 
 **Business Value:**
 Helps identify valuable customer accounts, investigate margin differences, and evaluate sales channel performance.
